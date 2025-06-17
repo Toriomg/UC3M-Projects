@@ -1,0 +1,9 @@
+Info: El sistema inició correctamente
+Warning: Se detectó un uso alto de memoria
+Error : No se pudo conectar a la base de datos
+Info: Usuario admin inició sesión
+Error : Permiso denegado al acceder a /var/log
+Warning: Espacio en disco bajo
+Error : Fallo en la autenticación del usuario
+Info: Proceso finalizado sin errores
+Error : No se encontró el archivo de configuración

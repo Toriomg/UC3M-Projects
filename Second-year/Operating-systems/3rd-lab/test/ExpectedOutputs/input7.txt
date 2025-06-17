@@ -1,0 +1,43 @@
+[OK][factory_manager] Process_manager with id 1 has been created.
+[OK][factory_manager] Process_manager with id 2 has been created.
+[OK][factory_manager] Process_manager with id 3 has been created.
+[OK][factory_manager] Process_manager with id 4 has been created.
+[OK][factory_manager] Process_manager with id 5 has been created.
+[OK][factory_manager] Process_manager with id 6 has been created.
+[OK][process_manager] Process_manager with id 1 waiting to produce 1 elements.
+[OK][process_manager] Process_manager with id 2 waiting to produce 1 elements.
+[OK][process_manager] Process_manager with id 4 waiting to produce 1 elements.
+[OK][process_manager] Process_manager with id 5 waiting to produce 1 elements.
+[OK][process_manager] Process_manager with id 6 waiting to produce 1 elements.
+[OK][process_manager] Process_manager with id 3 waiting to produce 1 elements.
+[OK][process_manager] Belt with id 2 has been created with a maximum of 1 elements.
+[OK][process_manager] Belt with id 4 has been created with a maximum of 1 elements.
+[OK][process_manager] Belt with id 6 has been created with a maximum of 1 elements.
+[OK][process_manager] Belt with id 1 has been created with a maximum of 1 elements.
+[OK][process_manager] Belt with id 5 has been created with a maximum of 1 elements.
+[OK][queue] Introduced element with id 0 in belt 2.
+[OK][queue] Introduced element with id 0 in belt 6.
+[OK][queue] Introduced element with id 0 in belt 5.
+[OK][queue] Obtained element with id 0 in belt 2.
+[OK][queue] Introduced element with id 0 in belt 1.
+[OK][queue] Obtained element with id 0 in belt 1.
+[OK][queue] Obtained element with id 0 in belt 5.
+[OK][process_manager] Belt with id 3 has been created with a maximum of 1 elements.
+[OK][process_manager] Process_manager with id 5 has produced 1 elements.
+[OK][queue] Introduced element with id 0 in belt 4.
+[OK][queue] Obtained element with id 0 in belt 4.
+[OK][queue] Obtained element with id 0 in belt 6.
+[OK][process_manager] Process_manager with id 2 has produced 1 elements.
+[OK][process_manager] Process_manager with id 6 has produced 1 elements.
+[OK][process_manager] Process_manager with id 4 has produced 1 elements.
+[OK][queue] Introduced element with id 0 in belt 3.
+[OK][process_manager] Process_manager with id 1 has produced 1 elements.
+[OK][factory_manager] Process_manager with id 1 has finished.
+[OK][queue] Obtained element with id 0 in belt 3.
+[OK][factory_manager] Process_manager with id 2 has finished.
+[OK][process_manager] Process_manager with id 3 has produced 1 elements.
+[OK][factory_manager] Process_manager with id 3 has finished.
+[OK][factory_manager] Process_manager with id 4 has finished.
+[OK][factory_manager] Process_manager with id 5 has finished.
+[OK][factory_manager] Process_manager with id 6 has finished.
+[OK][factory_manager] Finishing.
